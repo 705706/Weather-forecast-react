@@ -1,0 +1,13 @@
+*{
+	background-color: #69C1F8;
+}
+
+.App {
+  text-align: center;
+
+}
+
+.row {
+  justify-content: center;
+  margin: 20px 0;
+}
